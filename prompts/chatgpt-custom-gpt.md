@@ -1,6 +1,14 @@
 # ChatGPT Custom GPT Setup
 
-Create a Custom GPT that remembers your progress across sessions.
+## 🎮 Use the Pre-Built GPT
+
+**[👉 Life XP Tracker GPT](https://chatgpt.com/g/g-6951df0426908191b3da04169ae5a247-life-xp-tracker)** - Ready to use!
+
+---
+
+## Or Create Your Own
+
+Want to customize it? Here's how to build your own:
 
 ## Step 1: Create Custom GPT
 

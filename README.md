@@ -1,14 +1,30 @@
-# 🎮 Awesome Gamified Life
+<p align="center">
+  <img src="logo.png" alt="Awesome Gamified Life" width="400">
+</p>
 
-> Turn your daily habits into an RPG. Level up IRL.
+<h1 align="center">Awesome Gamified Life</h1>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <strong>Turn your daily habits into an RPG. Level up IRL.</strong>
+</p>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+</p>
 
 ---
 
-## ⚡ Try It Now (30 Seconds)
+## ⚡ Try It Now
 
-**Step 1:** Open [ChatGPT](https://chat.openai.com)
+### Option 1: Use the Custom GPT (Recommended)
+
+**[👉 Life XP Tracker GPT](https://chatgpt.com/g/g-6951df0426908191b3da04169ae5a247-life-xp-tracker)** - Click and start logging. Remembers your progress!
+
+---
+
+### Option 2: Copy-Paste Prompt (Any LLM)
+
+**Step 1:** Open [ChatGPT](https://chat.openai.com), [Claude](https://claude.ai), or any LLM
 
 **Step 2:** Paste this:
 
